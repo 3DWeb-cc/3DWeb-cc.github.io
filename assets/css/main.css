@@ -2372,3 +2372,10 @@ body.index #main {
 .animation-container {
   position: relative;
 }
+
+.content {
+  /* width: 70%; */
+  /* margin: auto; */
+  align-content: center;
+  text-align: center;
+}
